@@ -24,6 +24,7 @@ In other words, I love being a boiler room officer, despite people only remind y
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Composer" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Jetbrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;"/>
 </br>
 
 ##### Along the previous ones:
