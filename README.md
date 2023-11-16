@@ -1,16 +1,55 @@
-### Hi there 👋
+<h2 align="center">
+Welcome! I'm <a href="https://franciscolaracasalilla.com/" target="_blank" rel="noreferrer">Fran Lara</a> 👋 and I'm a Back-end Developer! 👨🏻‍💻
+</h2>
 
-<!--
-**FranLara/franlara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>
+So, yes... I like making the things work, not good looking ⚙
+</h4>
 
-Here are some ideas to get you started:
+In other words, I love being a boiler room officer, despite people only remind you when the ship does not move 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img alt="PHP coding" src="./images/php.gif"/>
+</p>
+
+#### I've been coding since I was 7 ⏳ and, professionally, since 2006 💻
+
+##### In my experience you could find:
+
+<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Composer" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="padding-right:10px;"/>
+
+</br>
+
+##### Along the previous ones:
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Drupal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="CentOS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="FileZilla" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Tomcat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Vagrant" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" style="padding-right:10px;"/>
+</br>
+
+##### And, of course, if want to know more about me:
+
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/franciscolaracasalilla)
+[<img align="left" alt="API CV (EN)" width="26px" src="./images/uk.svg" style="padding-right:10px;"/>](https://franciscolaracasalilla.com)
+[<img align="left" alt="API CV (ES)" width="26px" src="./images/sp.svg" style="padding-right:10px;"/>](https://franciscolaracasalilla.es)
+</br>
+
+💬 Do not hesitate to reach me if you want to ask me any question or just have a professional contact!
