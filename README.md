@@ -39,6 +39,7 @@ In other words, I love being a boiler room officer, despite people only remind y
 <img align="left" alt="SSH" title="SSH" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Chrome" title="Chrome" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;"/>
 </br>
+</br>
 
 ##### Along the previous ones:
 
@@ -57,6 +58,7 @@ In other words, I love being a boiler room officer, despite people only remind y
 <img align="left" alt="Moodle" title="Moodle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Linux" title="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Google Cloud" title="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;"/>
+</br>
 </br>
 
 ##### Also crossed in my life:
@@ -84,7 +86,7 @@ In other words, I love being a boiler room officer, despite people only remind y
 <img align="left" alt="Facebook" title="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Twitter" title="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Atom" title="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;"/>
-
+</br>
 </br>
 
 ##### And, of course, if you want to know more or more detailed about me:
