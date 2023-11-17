@@ -60,6 +60,7 @@ In other words, I love being a boiler room officer, despite people only remind y
 <img align="left" alt="Linux" title="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Google Cloud" title="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;"/>
 </br>
+</br>
 
 ##### Also crossed in my life:
 
